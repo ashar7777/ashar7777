@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on deep learning models related to image processing.
-- 🌱 I’m currently learning artificial intelligence methods for problem solving.
+- 🔭 I’m currently working on Deep Learning models related to Image Processing.
+- 🌱 I’m currently learning Artificial Intelligence methods for problem solving.
 - 💬 Ask me about Data Science, Golang.
 - 📫 How to reach me: [Mail](mailto:ashar.siddiqui1@gmail.com), [LinkedIn](<https://www.linkedin.com/in/ashar7777/>).
 - ⚡ Fun fact: I am interested in Quantum Physics.
